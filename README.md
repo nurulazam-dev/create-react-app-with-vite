@@ -3,11 +3,14 @@
 ### Step-1
 
 Open the main folder with terminal or git_bush. </b>
-Copy and paste the command `yarn create vite`.
+Copy and paste the command 
+```bash
+yarn create vite
+```
 
 ### Step-2
 
-Provide the **Project name: »** `my-project`.
+Provide the **Project name: »** `my-project` or `./`
 
 ### Step-3
 
@@ -36,4 +39,8 @@ Provide the command `yarn` for the install or add or create **node_modules** fol
 
 ### Step-7
 
-Finally, Provide the command `yarn run dev` for run the project.
+Finally, Provide the command 
+```bash
+yarn run dev
+```
+for run the project.
