@@ -162,8 +162,18 @@ app.listen(port, () => {
 ```
 
 ### Step-8
-create the `Controllers`, `auth`, `models`, and `routes` folders manually in the `backend` folder.
+create the `models`, `auth`, `Controllers`, and `routes` folders manually in the `backend` folder. More details are provided in the documentation project.
 
 ### Step-9
+
+create the files in the `models` folders. 
+- `models` =>  `UserSchema.js`, and `ProductSchema.js`...
+
+create the files in the `auth` folders. 
+- `auth` => `verifyToken.js`.
+
 create the files in the `Controllers` folders. 
 - `Controllers` => `authController.js`, `userController.js`, and `productController.js`...
+
+create the files in the `routes` folders. 
+- `routes` => `auth.js`, `user.js`, and `product.js`...
