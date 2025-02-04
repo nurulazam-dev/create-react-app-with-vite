@@ -126,3 +126,12 @@ create the files in the `auth` folders.
 
 create the files in the `Controllers` folders. 
 - `Controllers` => `authController.js`, `userController.js`, and `productController.js`...
+
+### Step-9
+##### models folders =>
+- `UserSchema.js` code:
+- `ProductSchema.js` code:
+
+### Step-10
+##### auth folder =>
+- `verifyToken.js` code:
