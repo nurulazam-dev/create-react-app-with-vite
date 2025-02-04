@@ -96,6 +96,7 @@ Finally, Provide the command to run the backend project.
 ```bash
 yarn start-dev
 ```
+
 ### Step-7
 create the `server.js` file manually.
 Copy and paste the command in the server.js.
@@ -159,3 +160,10 @@ app.listen(port, () => {
   console.log("MNA .....'s Server is running on port" + " " + port);
 });
 ```
+
+### Step-8
+create the `Controllers`, `auth`, `models`, and `routes` folders manually in the `backend` folder.
+
+### Step-9
+create the files in the `Controllers` folders. 
+- `Controllers` => `authController.js`, `userController.js`, and `productController.js`...
