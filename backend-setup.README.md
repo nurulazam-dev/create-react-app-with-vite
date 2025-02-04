@@ -51,6 +51,7 @@ yarn start-dev
 
 ### Step-7
 create the `server.js` file manually.
+
 Copy and paste the command in the server.js.
 ```bash
 import cookieParser from "cookie-parser";
@@ -127,11 +128,62 @@ create the files in the `auth` folders.
 create the files in the `Controllers` folders. 
 - `Controllers` => `authController.js`, `userController.js`, and `productController.js`...
 
+create the files in the `routes` folders. 
+- `routes` => `auth.js`, `user.js`, and `product.js`...
+
 ### Step-9
 ##### models folders =>
-- `UserSchema.js` code:
-- `ProductSchema.js` code:
+
+- Copy and paste the command in the `UserSchema.js`.
+```bash
+
+```
+
+- Copy and paste the command in the `ProductSchema.js`.
+```bash
+
+```
 
 ### Step-10
 ##### auth folder =>
-- `verifyToken.js` code:
+
+- Copy and paste the command in the `verifyToken.js`.
+```bash
+
+```
+
+### Step-11
+##### Controllers folder =>
+
+ - Copy and paste the command in the `authController.js`.
+```bash
+
+```
+
+ - Copy and paste the command in the `userController.js`.
+```bash
+
+```
+
+- Copy and paste the command in the `productController.js`.
+```bash
+
+```
+
+### Step-12
+##### routes folder =>
+
+ - Copy and paste the command in the `auth.js`.
+```bash
+
+```
+
+ - Copy and paste the command in the `user.js`.
+```bash
+
+```
+
+- Copy and paste the command in the `product.js`.
+```bash
+
+```
