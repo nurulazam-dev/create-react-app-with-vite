@@ -212,3 +212,20 @@ create the files in the `routes` folders.
 ```bash
 
 ```
+### Step-12
+##### routes folder =>
+
+ - Copy and paste the command in the `auth.js`.
+```bash
+
+```
+
+ - Copy and paste the command in the `user.js`.
+```bash
+
+```
+
+- Copy and paste the command in the `product.js`.
+```bash
+
+```
