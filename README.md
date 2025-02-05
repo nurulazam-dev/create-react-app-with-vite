@@ -184,3 +184,7 @@ create the files in the `routes` folders.
 ```bash
 
 ```
+- Copy and paste the command in the `ProductSchema.js`.
+```bash
+
+```
