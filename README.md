@@ -177,3 +177,6 @@ create the files in the `Controllers` folders.
 
 create the files in the `routes` folders. 
 - `routes` => `auth.js`, `user.js`, and `product.js`...
+
+### Step-9
+##### models folders =>
