@@ -195,3 +195,20 @@ create the files in the `routes` folders.
 ```bash
 
 ```
+### Step-11
+##### Controllers folder =>
+
+ - Copy and paste the command in the `authController.js`.
+```bash
+
+```
+
+ - Copy and paste the command in the `userController.js`.
+```bash
+
+```
+
+- Copy and paste the command in the `productController.js`.
+```bash
+
+```
