@@ -180,3 +180,7 @@ create the files in the `routes` folders.
 
 ### Step-9
 ##### models folders =>
+- Copy and paste the command in the `UserSchema.js`.
+```bash
+
+```
