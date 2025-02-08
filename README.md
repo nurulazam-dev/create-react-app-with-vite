@@ -222,5 +222,3 @@ create the files in the `routes` folders.
 
  - Copy and paste the command in the `user.js`.
 ```bash
-
-```
