@@ -216,6 +216,3 @@ create the files in the `routes` folders.
 ##### routes folder =>
 
  - Copy and paste the command in the `auth.js`.
-```bash
-
-```
