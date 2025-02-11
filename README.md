@@ -215,4 +215,4 @@ create the files in the `routes` folders.
 ### Step-12
 ##### routes folder =>
 
- - Copy and paste the command in the `auth.js`
+ - Copy and paste the command in the 
