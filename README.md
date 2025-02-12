@@ -3,7 +3,7 @@
 ## How to create a frontend part for the MERN App:
 ### Step-1
 
-Open the main root folder and create a "frontend or client" folder manually. open the folder using the terminal or git_bush. </b>
+Open the main root folder and manually create a "frontend or client" folder. open the folder using the terminal or git_bush. </b>
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
