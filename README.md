@@ -214,5 +214,3 @@ create the files in the `routes` folders.
 ```
 ### Step-12
 ##### routes folder =>
-
- - Copy and p
