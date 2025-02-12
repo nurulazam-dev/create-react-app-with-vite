@@ -213,4 +213,3 @@ create the files in the `routes` folders.
 
 ```
 ### Step-12
-##### routes folder =>
