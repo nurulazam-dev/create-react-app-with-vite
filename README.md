@@ -208,5 +208,5 @@ create the files in the `routes` folders.
 
 ```
 
-- Copy and paste the command in the `productController
+- Copy and paste the command in the `productContr
 
