@@ -205,4 +205,3 @@ create the files in the `routes` folders.
 
  - Copy and paste the command in the `userController.js`.
 ```bash
-``
