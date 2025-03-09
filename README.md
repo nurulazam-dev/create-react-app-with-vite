@@ -203,4 +203,4 @@ create the files in the `routes` folders.
 
 ```
 
- - Copy and paste the command in the `userControl
+ - Copy and paste the command in the `userCont
