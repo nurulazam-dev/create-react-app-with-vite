@@ -203,4 +203,4 @@ create the files in the `routes` folders.
 
 ```
 
- - Copy and paste the command
+ - Copy and paste the comma
