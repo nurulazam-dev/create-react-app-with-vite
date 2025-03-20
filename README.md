@@ -192,7 +192,7 @@ create the files in the `routes` folders.
 ##### auth folder =>
 
 - Copy and paste the command in the `verifyToken.js`.
-```bash
+```ba
 
 ```
 ### Step-11
