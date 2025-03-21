@@ -199,4 +199,4 @@ create the files in the `routes` folders.
 ##### Controllers folder =>
 
  - Copy and paste the command in the `authController.js`.
-```bash
+```ba
