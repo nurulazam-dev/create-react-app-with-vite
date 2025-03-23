@@ -198,4 +198,4 @@ create the files in the `routes` folders.
 ### Step-11
 ##### Controllers folder =>
 
- - Copy and paste the command in the `authCo
+ - Copy and paste the command in the `auth
