@@ -197,5 +197,3 @@ create the files in the `routes` folders.
 ```
 ### Step-11
 ##### Controllers folder =>
-
- - C
