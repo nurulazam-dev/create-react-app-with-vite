@@ -1,4 +1,4 @@
-# Create a MERN Stac
+# Create a MERN St
 
 ## How to create a frontend part for the MERN App:
 ### Step-1
