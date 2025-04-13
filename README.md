@@ -1,4 +1,4 @@
-# Create
+# Creat
 
 ## How to create a frontend part for the MERN App:
 ### Step-1
