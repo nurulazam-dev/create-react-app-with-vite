@@ -1,4 +1,4 @@
-## How to create a frontend part for the MERN Ap
+## How to create a frontend part for the MERN A
 ### Step-1
 
 Open the main root folder and manually create a "frontend or client" folder. Open the folder using the terminal or Git Bash. </b>
