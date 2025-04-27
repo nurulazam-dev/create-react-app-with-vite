@@ -1,4 +1,4 @@
-## How to create a front
+## How to create a fron
 ### Step-1
 
 Open the main root folder and manually create a "frontend or client" folder. Open the folder using the terminal or Git Bash. </b>
