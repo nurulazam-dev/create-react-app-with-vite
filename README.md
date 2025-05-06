@@ -1,4 +1,4 @@
-### Step-1
+### Step-
 
 Open the main root folder and manually create a "frontend or client" folder. Open the folder using the terminal or Git Bash. </b>
 
