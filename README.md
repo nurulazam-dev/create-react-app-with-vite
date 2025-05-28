@@ -1,4 +1,4 @@
-Open the main root folder and manually create a "frontend or cl
+Open the main root folder and manually create a "frontend or
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
