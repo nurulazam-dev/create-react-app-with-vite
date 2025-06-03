@@ -1,4 +1,4 @@
-Open the main root folder and manually create a "fronten
+Open the main root folder and manually create a "fron
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
