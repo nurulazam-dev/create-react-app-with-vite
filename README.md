@@ -1,4 +1,4 @@
-Open the main root folder and manually create a "fron
+Open the main root folder and manually create a "fr
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
