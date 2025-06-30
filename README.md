@@ -1,4 +1,4 @@
-Open the main root folder
+Open the main root fol
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
