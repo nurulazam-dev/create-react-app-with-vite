@@ -1,4 +1,4 @@
-Open the ma
+Open the 
 
 Copy and paste the command to create the @Vite latest app with yarn.
 ```bash
