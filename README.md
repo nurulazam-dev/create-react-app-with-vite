@@ -1,4 +1,4 @@
-Copy and paste the command to create the @Vite latest app with
+Copy and paste the command to create the @Vite latest app wit
 ```bash
 yarn create vite
 ```
