@@ -1,4 +1,4 @@
-Copy and paste the command to create the @Vite latest a
+Copy and paste the command to create the @Vite lates
 ```bash
 yarn create vite
 ```
