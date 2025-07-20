@@ -1,4 +1,4 @@
-Copy and paste the command to create the @Vite lates
+Copy and paste the command to create the @Vite lat
 ```bash
 yarn create vite
 ```
