@@ -1,4 +1,4 @@
-Copy and paste the command to create the @V
+Copy and paste the command to create the
 ```bash
 yarn create vite
 ```
