@@ -1,4 +1,4 @@
-Copy and paste the command to creat
+Copy and paste the command to cret
 ```bash
 yarn create vite
 ```
