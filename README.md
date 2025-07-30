@@ -1,4 +1,4 @@
-Copy and paste the command to cret
+Copy and paste the command to c
 ```bash
 yarn create vite
 ```
