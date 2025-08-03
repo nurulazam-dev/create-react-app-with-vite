@@ -1,4 +1,4 @@
-Copy and paste the comma
+Copy and paste the co
 ```bash
 yarn create vite
 ```
