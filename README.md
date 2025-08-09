@@ -1,4 +1,4 @@
-Copy and pas
+Copy and p
 ```bash
 yarn create vite
 ```
