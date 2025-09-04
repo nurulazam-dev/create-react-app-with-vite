@@ -3,7 +3,7 @@
 yarn create vite
 ```
 
-### Step-2
+### Step-
 
 Provide the **Project name: »** `my-project` or `./`
 
