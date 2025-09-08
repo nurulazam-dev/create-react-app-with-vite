@@ -5,7 +5,7 @@ yarn create vite
 
 ### Step-
 
-Provide the **Project name »** `my-project` or `./`
+Provide the **Projectname »** `my-project` or `./`
 
 ### Step-3
 
