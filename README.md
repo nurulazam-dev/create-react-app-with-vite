@@ -1,6 +1,6 @@
 
 ```bash
-yarn create vite
+yarn create vi
 ```
 
 ### Step-
