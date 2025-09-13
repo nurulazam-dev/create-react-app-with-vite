@@ -1,6 +1,6 @@
 
 ```bash
-yarn create vi
+yarn create
 ```
 
 ### Step-
