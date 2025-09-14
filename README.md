@@ -1,6 +1,6 @@
 
 ```bash
-yarn create
+yarn creat
 ```
 
 ### Step-
