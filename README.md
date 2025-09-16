@@ -1,6 +1,6 @@
 
 ```bash
-yarn cr
+yarn
 ```
 
 ### Step-
