@@ -1,8 +1,6 @@
 
 ```bash
 
-```
-
 ### Step-
 
 Provide the **Projectname »** `my-project` or `./`
