@@ -1,4 +1,4 @@
-### Ste
+### S
 
 Provide the **Projectname »** `my-prect` or `./`
 
