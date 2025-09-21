@@ -1,4 +1,4 @@
-Provide the **Projectname »** `my-prt` or `./`
+Provide the **Projectname »** `myrt` or `./`
 
 ### Step-3
 
