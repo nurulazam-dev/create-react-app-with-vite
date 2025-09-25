@@ -1,4 +1,4 @@
-Provide the **Projectname »** `` or `./`
+Provide the **Proctname »** `` or `./`
 
 ### Step-3
 
