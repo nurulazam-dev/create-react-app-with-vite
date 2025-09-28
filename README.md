@@ -1,4 +1,4 @@
-Provide the **Pro name »** `` or `./`
+Provide the **P name »** `` or `./`
 
 ### Step-3
 
