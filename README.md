@@ -1,4 +1,4 @@
-Provide the **P name »** `` or `./`
+Provide the **name »** `` or `./`
 
 ### Step-3
 
