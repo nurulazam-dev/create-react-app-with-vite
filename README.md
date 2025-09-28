@@ -1,4 +1,4 @@
-Provide the **na »** `` or `./`
+Provide the **n »** `` or `./`
 
 ### Step-3
 
