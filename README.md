@@ -1,4 +1,4 @@
-Provide the 
+Provide th
 
 ### Step-3
 
