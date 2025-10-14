@@ -1,5 +1,3 @@
-P
-
 ### Step-3
 
 **Select a framework: »** - Use arrow-keys. Return to submit. (select only one option)
