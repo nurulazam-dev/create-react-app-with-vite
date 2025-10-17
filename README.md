@@ -1,4 +1,3 @@
-#
 **Select a framework: »** - Use arrow-keys. Return to submit. (select only one option)
 
 <li>vue</li>
