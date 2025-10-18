@@ -1,4 +1,4 @@
-**Select a framework: »** - Use arrow-keys. Return to suit. (select only one option)
+**Select a framework: * - Use arrow-keys. Return to suit. (select only one option)
 
 <li>vue</li>
 <li>React</li>
