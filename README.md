@@ -1,4 +1,4 @@
-**Select a framework* - Use arrow-keys. Return tot. ect oy one oion)
+**Select a framework* - Use arrow-keys. Return tot. ect oy one oio
 
 <li>vue</li>
 <li>React</li>
