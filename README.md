@@ -1,4 +1,4 @@
-**Select a framework* - Return tot. ect oy one oio
+**Select a framework* - Retu tot. ect oy one oio
 
 <li>vue</li>
 <li>React</li>
