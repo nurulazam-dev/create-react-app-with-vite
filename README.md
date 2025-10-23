@@ -1,4 +1,4 @@
-**Select a framework* - Retu দy one oio
+**Select a framework* - Retu দy one o
 
 <li>vue</li>
 <li>React</li>
