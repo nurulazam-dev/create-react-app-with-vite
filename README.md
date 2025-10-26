@@ -1,4 +1,4 @@
-**Select a framework* 
+Select a framework
 
 <li>vue</li>
 <li>React</li>
