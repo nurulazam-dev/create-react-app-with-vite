@@ -1,4 +1,3 @@
-vue
 <li>React</li>
 <li>Others</li> ,etc.
 
