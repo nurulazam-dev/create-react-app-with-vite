@@ -1,4 +1,4 @@
-<li>React</l
+<li>React
 <li>Others</li> ,etc.
 
 ### Step-4
