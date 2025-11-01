@@ -1,4 +1,3 @@
-R
 <li>Others</li> ,etc.
 
 ### Step-4
